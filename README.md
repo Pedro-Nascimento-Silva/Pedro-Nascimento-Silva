@@ -12,7 +12,7 @@
 
 ## 📊 My Status  
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Nascimento-Silva&show_icons=true&theme=radical)  
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nascimento-silva&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Nascimento-Silva&layout=compact&langs_count=6&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nascimento-silva&layout=compact&langs_count=6&theme=radical)  
 
