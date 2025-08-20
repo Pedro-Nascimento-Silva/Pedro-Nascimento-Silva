@@ -1,43 +1,48 @@
-<div align="center">
-  <img src="https://www.media.io/br/avatar-creator.html" alt="[Seu nome]" width="200"/>
-  <h1>Olá, eu sou Pedro Nascimento! 👋</h1>
-  <p>Desenvolvedor apaixonado por [sua área de atuação] e tecnologia.</p>
-</div>
+### Olá, eu sou o Pedro Nascimento 👋
+
+<p align="left">
+  Sou um entusiasta de tecnologia com foco em Desenvolvimento de Software. Gosto de transformar ideias em código e construir soluções práticas, desde projetos mais robustos até aplicações menores e úteis para o dia a dia.
+</p>
+
+<p align="left">
+  Atualmente, estou aprofundando meus conhecimentos em Java para expandir minhas habilidades como desenvolvedor.
+</p>
 
 ---
 
-### 💻 Minhas Habilidades
+### 🛠️ Habilidades (Skills)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+</p>
+
+---
+
+### 🌱 Estou Aprendendo (Currently Learning)
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  </a>
+</p>
+
+---
+
+### 📫 Entre em Contato (Contact Me)
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pedrosilva2302@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub (My GitHub Stats)
 
 <p align="center">
-  <img src="[Link do ícone do Python]" alt="Python" width="50"/>
-  <img src="[Link do ícone do JavaScript]" alt="JavaScript" width="50"/>
-  <img src="[Link do ícone do Java]" alt="Java" width="50"/>
-  </p>
-
----
-
-### 🌱 Atualmente Aprendendo
-
-- [Tecnologia 1]
-- [Tecnologia 2]
-
----
-
-### 📊 Meu Status no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Seu-Nome-De-Usuário-Do-GitHub]&layout=compact&hide_border=true&theme=dark" />
-</div>
-
----
-
-### 🤝 Conecte-se Comigo!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/[seu-perfil-do-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[seu-email]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  </p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+</p>
