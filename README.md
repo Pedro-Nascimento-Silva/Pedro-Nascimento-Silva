@@ -3,8 +3,7 @@
 ## 👨‍💻 Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
 
-<img src="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/bac6e2c5-4ae9-4cce-bde2-283fc05d0959" min-width="500px" max-width="500px" width="500px" align="right">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="500px" width="500px" align="right">
 
 
 ## 📘 Currently learning:
