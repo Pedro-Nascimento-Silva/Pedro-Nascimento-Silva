@@ -9,6 +9,7 @@
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/CONECTE--SE-555555?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0077B5)](https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)
+<br>
 [![Gmail](https://img.shields.io/badge/ME_ENVIE_UM_EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white&label=GMAIL&labelColor=D14836)](mailto:pedrosilva2302@outlook.com)
 
 ## 📊 My Status
