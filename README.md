@@ -15,11 +15,11 @@
 ### 🌐 Contato
 <a href="https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/" target="_blank">
   <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a> **Pedro Nascimento**
+</a> Pedro Nascimento
 <br>
 <a href="mailto:pedrosilva2302@outlook.com" target="_blank">
   <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge"/>
-</a> **Pedro Nascimento**
+</a> Pedro Nascimento
 
 ### 📊 My Status
 <div align="center">
