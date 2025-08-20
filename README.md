@@ -22,7 +22,5 @@
 </a> Pedro Nascimento
 
 ### 📊 My Status
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedro-nascimento-silva&show_icons=true&theme=radical" alt="Pedro's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nascimento-silva&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
-</div>
