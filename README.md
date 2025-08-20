@@ -12,8 +12,8 @@
 
 ### 🛠️ Habilidades (Skills)
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
 
@@ -21,8 +21,8 @@
 
 ### 🌱 Estou Aprendendo (Currently Learning)
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" alt="Java"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
 </p>
 
