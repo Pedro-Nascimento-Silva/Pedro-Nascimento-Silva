@@ -46,6 +46,6 @@
 ### 📊 Minhas Estatísticas no GitHub (My GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-DO-GITHUB&layout=compact&langs_count=7&theme=dracula)"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Pedro-Nascimento-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Pedro-Nascimento-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Nascimento-Silva&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Nascimento-Silva&layout=compact&langs_count=7&theme=dracula)"/>
 </p>
