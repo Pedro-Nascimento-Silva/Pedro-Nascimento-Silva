@@ -11,22 +11,16 @@
 ---
 
 ### 🛠️ Habilidades (Skills)
-<div align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-    <span style="font-size: 18px; font-weight: bold; color: #C9D1D9;">Python</span>
-  </a>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
 
 ---
 
 ### 🌱 Estou Aprendendo (Currently Learning)
-<div align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-    <span style="font-size: 18px; font-weight: bold; color: #C9D1D9;">Java</span>
-  </a>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
 
 ---
 
@@ -35,12 +29,12 @@
   <a href="https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <code> PEDRO NASCIMENTO </code>
+  <code>PEDRO NASCIMENTO</code>
   <br>
   <a href="mailto:pedrosilva2302@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <code> PEDRO NASCIMENTO </code>
+  <code>PEDRO NASCIMENTO</code>
 </p>
 
 ---
