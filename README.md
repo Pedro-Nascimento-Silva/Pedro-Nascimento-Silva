@@ -1,32 +1,25 @@
-<table>
-  <tr>
-    <td valign="top">
-      
-# Pedro Nascimento
+```markdown
 
-### 👨‍💻 Skills:
+Pedro Nascimento
+<p align="left">
+
+👨‍💻 Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
 
-### 📘 Currently learning:
+📘 Currently learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> Java
 
-### 🌐 Contato
+🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/CONECTE--SE-555555?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0077B5)](https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)
 <br>
-[![Gmail](https://img.shields.io/badge/ME_ENVIE_UM_EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white&label=GMAIL&labelColor=D14836)](mailto:pedrosilva2302@outlook.com)
 
-### 📊 My Status
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pedro-nascimento-silva&show_icons=true&theme=radical" alt="Pedro's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nascimento-silva&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
-</div>
+📊 My Status
+<p align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=pedro-nascimento-silva&show_icons=true&theme=radical" alt="Pedro's GitHub stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nascimento-silva&layout=compact&langs_count=6&theme=radical" alt="Top Langs" />
+</p>
 
-    </td>
-    <td valign="top" width="40%">
-      
-      <img src="https://chatgpt.com/s/m_68a62cef63e88191a0d19dbea4aa6d16" alt="Ilustração de Programação" width="400" />
-      
-    </td>
-  </tr>
-</table>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="right" width="350" />
+```
