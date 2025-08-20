@@ -3,17 +3,21 @@
 ---
 
 ### 👨‍💻 Skills
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python  
+<img align="left" alt="Python" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python  
+
+<br/>
 
 ### 📘 Currently learning
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java  
+<img align="left" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> Java  
+
+<br/>
 
 ---
 
 ## 🌐 Contato  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)](https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)  
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrosilva2302@outlook.com)](mailto:pedrosilva2302@outlook.com)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)](https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/) **Pedro Nascimento**  
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrosilva2302@outlook.com)](mailto:pedrosilva2302@outlook.com) **Pedro Nascimento**  
 
 ---
 
