@@ -1,47 +1,28 @@
-### Olá, eu sou o Pedro Nascimento 👋
-
-<p align="left">
-  Sou um entusiasta de tecnologia com foco em Desenvolvimento de Software. Gosto de transformar ideias em código e construir soluções práticas, desde projetos mais robustos até aplicações menores e úteis para o dia a dia.
-</p>
-
-<p align="left">
-  Atualmente, estou aprofundando meus conhecimentos em Java para expandir minhas habilidades como desenvolvedor.
-</p>
+# Pedro Nascimento
 
 ---
 
-### 🛠️ Habilidades (Skills)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+### 👨‍💻 Skills:  
+- Python  
+
+### 📘 Currently learning:  
+- Java  
 
 ---
 
-### 🌱 Estou Aprendendo (Currently Learning)
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
+## 🌐 Contato  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)](https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b/)  
+[![Outlook Badge](https://img.shields.io/badge/-Pedro%20Nascimento-D14836?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:pedrosilva2302@outlook.com)](mailto:pedrosilva2302@outlook.com)  
 
 ---
 
-### 📫 Entre em Contato (Contact Me)
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-nascimento-silva-7157a137b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <code>PEDRO NASCIMENTO</code>
-  <br>
-  <a href="mailto:pedrosilva2302@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <code>PEDRO NASCIMENTO</code>
-</p>
+## 📊 My Status  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Nascimento-Silva&layout=compact&langs_count=6&theme=radical)
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub (My GitHub Stats)
+## 💻 Sobre mim  
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Nascimento-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Nascimento-Silva&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+Sou apaixonado por tecnologia e programação, atualmente focado em **Python** e expandindo meus conhecimentos em **Java**. 🚀  
