@@ -1,4 +1,4 @@
-# Pedro Nascimento
+<h2 align="center"># Pedro Nascimento
 
 ## 👨‍💻 About Me
 
