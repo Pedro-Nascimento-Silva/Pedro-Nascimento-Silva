@@ -7,7 +7,6 @@
 - 🔭 Currently exploring **software development** and **algorithms**  
 - 🌱 Learning more about **Python, Java, and Web Development**  
 - 📚 Interested in **AI, data structures, and open-source projects**  
-- ⚡ Fun fact: I love coffee and late-night coding sessions  
 
 
 ## 👨‍💻 Skills:
