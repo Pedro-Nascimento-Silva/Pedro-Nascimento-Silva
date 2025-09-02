@@ -1,15 +1,14 @@
 # Pedro Nascimento
 
-## 😄 About me
+## 👨‍💻 About Me
 
-- Currently, I'm interested in Software Engineering, Data Science, and Machine Learning. <br>
-- I'm a technology lover and interested in how it can change people's lives. <br>
-- In my spare time, I like to play guitar, listen to podcasts, and enjoy listening to music, especially rock. <br>
+- 🎓 Computer Science student at **UFMG** (Federal University of Minas Gerais)  
+- 💡 Passionate about technology, problem-solving, and continuous learning  
+- 🔭 Currently exploring **software development** and **algorithms**  
+- 🌱 Learning more about **Python, Java, and Web Development**  
+- 📚 Interested in **AI, data structures, and open-source projects**  
+- ⚡ Fun fact: I love coffee and late-night coding sessions  
 
-💻 Current Position: **Researcher and Developer** (PD&I Student) at [**VIRTUS**](https://www.virtus.ufcg.edu.br/) and Computer Science student at [**UFCG**](https://portal.ufcg.edu.br).<br>
-☕ My favorite programming languages are Python and Java! <br>
-
-**The right moment never comes. The courage to start is what turns possibilities into reality.**
 
 ## 👨‍💻 Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
