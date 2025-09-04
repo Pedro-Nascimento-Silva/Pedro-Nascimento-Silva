@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **UFMG** (Federal University of Minas Gerais)  
+- 🎓 Computer Science student at **UFCG* (Federal University of Campina Grande)  
 - 💡 Passionate about technology, problem-solving, and continuous learning  
 - 🔭 Currently exploring **software development** and **algorithms**  
 - 🌱 Learning more about **Python, Java, and Web Development**  
